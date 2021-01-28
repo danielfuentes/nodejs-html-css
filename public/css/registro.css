@@ -1,0 +1,30 @@
+.tituloRegistro{
+    padding-top: 90px;
+}
+input, label{
+    font-size: 1.2rem;
+    display: inline-block;
+    }
+
+.registro {
+    width: 100%;
+    background-image: url('/img/banner1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+    
+}
+.formulario{
+    background-color: rgba(255,255,255, 0.8);
+    width: 40%;
+    padding-left: 30px;
+}
+.formulario , .registro{
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+}
+.registro{
+    
+    padding-left: 400px;
+}
